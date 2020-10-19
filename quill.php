@@ -9,7 +9,7 @@ $strvalue=$_POST['quilltxt'];
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Full Editor - Quill Rich Text Editor</title>
+  <title>Full Editor - Quill Rich Text Editor 2nd</title>
   <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="language" content="english">
